@@ -1,0 +1,16 @@
+.container-fluid{
+    background-color: rgb(166, 166, 214);
+
+}
+
+.navbarbg-body-tertiary{
+    padding:2px;
+    margin:5px;
+    background-color:rgb(205, 205, 221)
+}
+
+.toDoText{
+    margin:-20px 0px 5px 45%;
+    padding:2px
+   
+}
